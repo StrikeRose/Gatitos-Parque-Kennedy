@@ -22,28 +22,28 @@ Mediante esta página de donaciones se busca recaudar fondos para así poder bri
 
 # 2. PLANEAMIENTO
 
-Semana 1:
+  Semana 1:
 
-Aprender conceptos básicos de HTML y armar una estructura que permita interactuar de manera fácil en el posterior CSS y JS
+    - Aprender conceptos básicos de HTML y armar una estructura que permita interactuar de manera fácil en el posterior CSS y JS
 
-Leer y entender GITHUB
+    - Leer y entender GITHUB
 
 
 Semana 2:
 
-Aprender e implementar el CSS.
+    - Aprender e implementar el CSS.  
 
-Entender los conceptos del CSS y poder realizar una página amigable y bonita
+    - Entender los conceptos del CSS y poder realizar una página amigable y bonita
 
 
 Semana 3:
 
-Aprender y prácticar JavaScript.
+    - Aprender y prácticar JavaScript.
 
-Lograr que el código me indique si es valido o no y poder emplear la función maskify 
+    - Lograr que el código me indique si es valido o no y poder emplear la función maskify 
 
 
-Detalles finales.
+    - Detalles finales.
 
 
 
@@ -52,6 +52,9 @@ Detalles finales.
 Para el proyecto desde un inicio se pensó en algo simple y funcional, este es el prototipo de baja fidelidad 
 
 ![Prototipo_baja_fidelidad_1](https://user-images.githubusercontent.com/40776002/229824135-a536dd6a-360f-4618-906b-ab2b9e34b179.jpg)
+
+
+
 
 
 
